@@ -1,0 +1,14 @@
+.logo {
+    margin: 1em;
+    width: 3em;
+    height: auto;
+}
+
+.dashboard-link {
+    width: 5em;
+    height: 3em;
+}
+
+.text-danger {
+    font-weight: 800;
+}
